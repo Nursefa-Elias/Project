@@ -1,8 +1,11 @@
-
+Required libraries 
+   -> Opencv
+   -> numpy
+   -> requests
 First you are supposed to locate the algorithm found in the folder named haarcascade.. to somewhere in your pc...
 then locate the path of algorithm inside each files ended with '.py'
  
 then first Run the Video-Recognition.py,
 then proceed to run detection.py ...
 
-****   You will get the captured face being detected if he/she is licenced or not ****
+****   You will get the captured face being Recognized if he/she is licenced or not ****
